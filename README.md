@@ -3,12 +3,10 @@
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-.-,--.             .   ,-_/,.         .            ,--,--'      .  .     .  
- `|__/ ,-. ,-. . ,-|   ' |_|/ . . ,-. |- ,-. ,-.   `- | ,-. ,-. |  | , . |- 
- )| \  ,-| | | | | |    /| |  | | | | |  |-' |      , | | | | | |  |<  | |  
- `'  ` `-^ |-' ' `-^    `' `' `-^ ' ' `' `-' '      `-' `-' `-' `' ' ` ' `' 
-           |                                                                
-           '     
+ +-+-+-+-+-+ +-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |R|a|p|i|d| |H|u|n|t|e|r| |T|o|o|l|k|i|t|
+ +-+-+-+-+-+ +-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ 
 ## Description
 
 **RapidHunter Toolkit** is a versatile and comprehensive script designed to streamline the process of provisioning an all-in-one bug hunting toolkit on a VPS (Virtual Private Server). This script automates the installation of a wide range of tools essential for bug bounty hunting, penetration testing, and security assessments. It offers an organized menu-driven interface that allows users to quickly check and install missing tools, making it an indispensable asset for security professionals and bug bounty hunters.
